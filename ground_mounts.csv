@@ -583,7 +583,7 @@ ID,Name,Icon,Scale,DisplayID,ModelFileID,FileName
 582,Infinite Armoredon,inv_rhinoprimalmountinfinite,0.85,117076,5280626,creature/rhinoprimalmountinfinite/rhinoprimalmountinfinite.m2
 583,Vicious Dreamtalon,inv_vicioussabretoothraptor__alliance,1,117077,5199787,creature/vicioussabretoothraptor/vicioussabretoothraptor.m2
 584,Vicious Dreamtalon,inv_vicioussabretoothraptor_horde,1,117078,5199787,creature/vicioussabretoothraptor/vicioussabretoothraptor.m2
-585,[PH] MoleMount (Dark Skin, Black Saddle, Teeth Rodent, Nose Star),inv_molemount_dark,1,47166,773102,creature/elitegryphon/elitegryphon.m2
+585,"[PH] MoleMount (Dark Skin, Black Saddle, Teeth Rodent, Nose Star)",inv_molemount_dark,1,47166,773102,creature/elitegryphon/elitegryphon.m2
 586,Midnight,ability_mount_dreadsteed,1,73808,1380821,creature/skeletalwarhorse2/skeletalwarhorse2.m2
 587,Vicious War Lion,inv_viciousgoldenking,1.5,73817,1517167,creature/viciousgoldenking/viciousgoldenking.m2
 588,Ivory Hawkstrider,inv_ability_mount_cockatricemount_white,1,73991,123275,creature/cockatrice/cockatricemount.m2
