@@ -13,6 +13,11 @@ The data is available in two formats: JSON and CSV.
 - [JSON Format](https://github.com/masterking32/wow-after-wotlk/blob/main/Herbs.json)
 - [CSV Format](https://github.com/masterking32/wow-after-wotlk/blob/main/Herbs.csv)
 
+### Ground Mounts
+
+- [JSON Format](https://github.com/masterking32/wow-after-wotlk/blob/main/ground_mounts.json)
+- [CSV Format](https://github.com/masterking32/wow-after-wotlk/blob/main/ground_mounts.csv)
+
 Please note that the data is current up to version `10.2.6.54205` of the game.
 
 ## Contributing
