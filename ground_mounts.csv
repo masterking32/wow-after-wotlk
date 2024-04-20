@@ -772,7 +772,7 @@ ID,Name,Icon,Scale,DisplayID,ModelFileID,FileName
 771,Mossy Mammoth,inv_mammoth2mount_green,1,100958,4034801,creature/mammoth2mount/mammoth2mount.m2
 772,Plainswalker Bearer,inv_mammoth2mount_orange,1,100960,4034801,creature/mammoth2mount/mammoth2mount.m2
 773,Explorer's Stonehide Packbeast,inv_thunderlizardprimal_light,1,100967,4008386,creature/thunderlizardprimalmount/thunderlizardprimalmount.m2
-774,Lizi, Thunderspine Tramper,inv_thunderlizardprimal_brown,0.75,100970,4008386,creature/thunderlizardprimalmount/thunderlizardprimalmount.m2
+774,"Lizi, Thunderspine Tramper",inv_thunderlizardprimal_brown,0.75,100970,4008386,creature/thunderlizardprimalmount/thunderlizardprimalmount.m2
 775,Raging Magmammoth,inv_mammoth2lavamount_red,1,100963,4034803,creature/mammoth2lavamount/mammoth2lavamount.m2
 776,Renewed Magmammoth,inv_mammoth2lavamount_yellow,1,107507,4034803,creature/mammoth2lavamount/mammoth2lavamount.m2
 777,Otto,inv_riverotterlargemount01_blue,1.6,102074,4093643,creature/riverotterlargemount01/riverotterlargemount01.m2
