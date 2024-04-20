@@ -486,7 +486,7 @@ ID,Name,Icon,Scale,DisplayID,ModelFileID,FileName
 485,Coalfist Gronnling,inv_lessergronnmount_red,1,64426,1012496,creature/lessergronn/lessergronnmount.m2
 486,Illidari Felstalker,inv_felstalkermount,1,64582,1113500,creature/felstalkermount/felstalkermount.m2
 487,Crusty Crawler,inv_crabmount_blue,1,104791,2395765,creature/crabmount/crabmount.m2
-488,Jigglesworth, Sr.,4216725,0.7,104787,4215863,creature/catslimemount/catslimemount.m2
+488,"Jigglesworth, Sr.",4216725,0.7,104787,4215863,creature/catslimemount/catslimemount.m2
 489,Armored Siege Kodo,inv_kodomount,0.6,104790,4201463,creature/kodomount/kodomount.m2
 490,Bristling Hellboar,inv_giantboarmount_brown,0.4,64726,937216,creature/giantboar/giantboararmoredmount.m2
 491,Iska's Mawrat Leash,inv_mawratmount_02,1,104996,4287493,creature/mawratmount/mawratmount.m2
