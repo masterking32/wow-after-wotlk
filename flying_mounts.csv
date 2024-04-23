@@ -115,7 +115,7 @@ ID,Name,Icon,Scale,DisplayID,ModelFileID,FileName
 114,Ferocious Gladiator's Storm Dragon,inv_stormdragonmount2green,1,73319,1501024,creature/stormdragonmount2/stormdragonmount2.m2
 115,Fierce Gladiator's Storm Dragon,inv_stormdragonmount2light,1,73320,1501024,creature/stormdragonmount2/stormdragonmount2.m2
 116,Dominant Gladiator's Storm Dragon,inv_stormdragonmount2yellow,1,73321,1501024,creature/stormdragonmount2/stormdragonmount2.m2
-117,Ban-lu, Grandmaster's Companion,inv_monkmount,1.5,73784,1511549,creature/monkmount/monkmount.m2
+117,"Ban-lu, Grandmaster's Companion",inv_monkmount,1.5,73784,1511549,creature/monkmount/monkmount.m2
 118,Trust of a Fierce Wolfhawk,inv_huntermount_green,1,73782,1512566,creature/huntermount/huntermount.m2
 119,Trust of a Loyal Wolfhawk,inv_huntermount,1,73780,1512566,creature/huntermount/huntermount.m2
 120,Trust of a Dire Wolfhawk,inv_huntermount_blue,1,73781,1512566,creature/huntermount/huntermount.m2
