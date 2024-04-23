@@ -292,7 +292,7 @@ ID,Name,Icon,Scale,DisplayID,ModelFileID,FileName
 291,Mage-Bound Spelltome,4062012,1.35,102040,4061989,creature/bookmount/bookmount.m2
 292,Cosmic Gladiator's Soul Eater,inv_shadebeastmount_red,1.1,97310,3593393,creature/shadebeastmount/shadebeastmount.m2
 293,Quawks,inv_parrotmount_purple,1,5561,2168127,creature/waterelemental2/waterelemental2.m2
-294,Ash'adar, Harbinger of Dawn,ability_nightsaber2mountsunmoon,1.35,104779,4218965,creature/nightsaber2mountsunmoon/nightsaber2mountsunmoon.m2
+294,"Ash'adar, Harbinger of Dawn",ability_nightsaber2mountsunmoon,1.35,104779,4218965,creature/nightsaber2mountsunmoon/nightsaber2mountsunmoon.m2
 295,Coral-Stalker Waveray,inv_sharkraymount_4,1,105400,2620670,creature/sharkraymount/sharkraymount.m2
 296,Heartbond Lupine,inv_progenitorwolf,1,104801,3931416,creature/progenitorwolf/progenitorwolf.m2
 297,Nether-Gorged Greatwyrm,4323958,0.6,105404,4323764,creature/nethergorgedgreatwyrm/nethergorgedgreatwyrm.m2
