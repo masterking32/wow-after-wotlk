@@ -16,7 +16,12 @@ The data is available in two formats: JSON and CSV.
 ### Ground Mounts
 
 - [JSON Format](https://github.com/masterking32/wow-after-wotlk/blob/main/ground_mounts.json)
-- [CSV Format](https://github.com/masterking32/wow-after-wotlk/blob/main/ground_mounts.csv)
+- [CSV Format](https://github.com/masterking32/wow-after-wotlk/blob/main/ground_mounts.csv)### Ground
+
+### Flying Mounts
+
+- [JSON Format](https://github.com/masterking32/wow-after-wotlk/blob/main/flying_mounts.json)
+- [CSV Format](https://github.com/masterking32/wow-after-wotlk/blob/main/flying_mounts.csv)
 
 Please note that the data is current up to version `10.2.6.54205` of the game.
 
