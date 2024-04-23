@@ -191,7 +191,7 @@ ID,Name,Icon,Scale,DisplayID,ModelFileID,FileName
 190,Dazar'alor Windreaver,inv_pterrordax2mount_bronze,0.35,90194,1624348,creature/pterrordax2mount/pterrordax2mount.m2
 191,Glacial Tidestorm,spell_frost_summonwaterelemental_2,1.15,90414,2530400,creature/waterelementalmount/waterelementalmount.m2
 192,Siltwing Albatross,inv_vulturemount_alabatrosswhite,1.5,84359,1926505,creature/vulturemount/vulturemount.m2
-193,Hogrus, Swine of Good Fortune,inv_encrypted06,0.3,90398,2459473,creature/encrypted06/encrypted06.m2
+193,"Hogrus, Swine of Good Fortune",inv_encrypted06,0.3,90398,2459473,creature/encrypted06/encrypted06.m2
 194,Vulpine Familiar,2495963,1.2,90397,2492591,creature/encrypted09/encrypted09.m2
 195,Sylverian Dreamer,2493157,1,90396,2492654,creature/encrypted08/encrypted08.m2
 196,Ankoan Waveray,inv_sharkraymount_1,1,90725,2620670,creature/sharkraymount/sharkraymount.m2
