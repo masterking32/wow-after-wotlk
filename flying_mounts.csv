@@ -156,7 +156,7 @@ ID,Name,Icon,Scale,DisplayID,ModelFileID,FileName
 155,Darkmoon Dirigible,inv_zeppelinmount,1,78105,1519490,creature/zeppelinmount/zeppelinmount.m2
 156,Demonic Gladiator's Storm Dragon,inv_stormdragonmount2_fel,1,76533,1610615,creature/stormdragonmount2_fel/stormdragonmount2_fel.m2
 157,Xiwyllag ATV,inv_hovercraftmount,1,80513,1711979,creature/hovercraftmount/hovercraftmount.m2
-158,Shu-Zen, the Divine Sentinel,inv_dogmount,1,81772,1795297,creature/dogmount/dogmount.m2
+158,"Shu-Zen, the Divine Sentinel",inv_dogmount,1,81772,1795297,creature/dogmount/dogmount.m2
 159,The Hivemind,inv_hivemind,0.75,88835,2266780,creature/hivemind/hivemind.m2
 160,Dread Gladiator's Proto-Drake,ability_mount_protodrakegladiatormount,1,82809,1851475,creature/protodrakegladiatormount/protodrakegladiatormount.m2
 161,Sinister Gladiator's Proto-Drake,ability_mount_protodrakegladiatormount,1,82804,1851475,creature/protodrakegladiatormount/protodrakegladiatormount.m2
